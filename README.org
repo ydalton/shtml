@@ -1,0 +1,10 @@
+#+title: ~shtml~: the first step towards a Shell script based webstack
+
+* Introduction
+~shtml~ reads files interweaved with HTML and Bash script code.
+
+Example code in `./examples`.
+* Usage:
+#+begin_example
+./shtml test.shtml
+#+end_example
