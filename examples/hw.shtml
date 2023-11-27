@@ -1,0 +1,15 @@
+#!/usr/bin/shtml
+<!doctype html>
+<html>
+	<head>
+	</head>
+	<body>
+		<h1>${env}</h1>
+		<p>
+		${
+			pwd
+		}
+		</p>
+		<p>$SHELL</p>
+	</body>
+</html>
